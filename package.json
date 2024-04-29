@@ -1,11 +1,13 @@
 {
-  "name": "@uniswap/v2-core",
+  "name": "smartswap-v2-core",
   "description": "🎛 Core contracts for the UniswapV2 protocol",
-  "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/JRaghu842/smartswap-v2-core.git"
   },
   "keywords": [
     "uniswap",
